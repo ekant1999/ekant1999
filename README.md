@@ -85,10 +85,10 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Olymic-game&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/ekant1999/Sorting_Visualiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Sorting_Visualiser&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Sorting_Visualiser&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/ekant1999/Tower-of-Hanoi-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Tower-of-Hanoi-Visualizer&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Tower-of-Hanoi-Visualizer&theme=react&layout=compact" />
 </a>
 </center>
 
