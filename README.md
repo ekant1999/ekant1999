@@ -1,7 +1,6 @@
 <p align="center">
 <br><img src="https://github.com/ekant1999/ekant1999/blob/main/coding.gif" width="280px"><br><br>
 </p>
-<h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
   <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
@@ -20,9 +19,7 @@
 <a href="https://facebook.com/">
   <img align="right" alt="Ekant kapgate - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-<br/>
-<br/>
-<h2 align="center">Namaste :pray:, I'm Ekant Kapgate</h1>
+<h2 align="left">Namaste :pray:, I'm Ekant Kapgate</h1>
 
 
 ```js
