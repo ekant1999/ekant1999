@@ -25,7 +25,7 @@ document.write("Hello World");
 var status = 
 { 
   learning : [React, P5.js],
-  interests: [Research, Open Source Contribution]
+  interests: [Research, Open Source Contribution, Software Devlopment]
 }
 
 const skills = 
