@@ -1,6 +1,3 @@
-<p align="center">
-<br><img src="https://github.com/ekant1999/ekant1999/blob/main/coding.gif" width="280px"><br><br>
-</p>
 <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
   <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
