@@ -1,3 +1,6 @@
+<p align="center">
+<br><img src="https://github.com/ekant1999/ekant1999/blob/main/coding.gif" width="280px"><br><br>
+</p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
   <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
@@ -28,23 +31,23 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [React, Redux, Django Signals & PostgreSQL],
+  learning : [React, P5.js],
   interests: [Research, Open Source Contribution]
 }
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Bash, Java, Html, Css, Javascript, Ruby],
+  languages :[C, Cpp, Python, Java, Html, Css, Javascript],
   
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse],https://www.linkedin.com/in/ekant-kapgate-494854167/https://www.linkedin.com/in/ekant-kapgate-494854167/
+  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Eclipse]
   
-  libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
+  libraries :[Jquery, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   
-  frameworks:[Bootstrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
+  frameworks:[Bootstrap, React, Node, Django, Flask],
   
-  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  databases :[MySql, Firebase],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
+  platforms :[Google Cloud Platform, Amazon Web Services, Github Pages],
   
   cicd      :[TravisCI, CircleCI, Github Workflows]
 }
@@ -55,7 +58,10 @@ Developer dev = new Developer(Ekant kapgate);
 while(dev.isCoding() && dev.isStuck())  
 {
   dev.openBrowser();
-  dev.openStackOverFlow();
+  dev.openDocumentation();
+  dev.getFrustrated();
+  dev.open100'sOfBlog();
+  dev.openStackOverflow();
   dev.pasteCodeInIde();
   dev.feelProfessional();
 }
