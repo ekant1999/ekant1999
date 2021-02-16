@@ -1,6 +1,3 @@
-
-<h2 align="left">Namaste :pray:, I'm Ekant Kapgate</h2>
-
 <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
   <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
@@ -19,7 +16,7 @@
 <a href="https://facebook.com/">
   <img align="right" alt="Ekant kapgate - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-
+<h2 align="left">Namaste :pray:, I'm Ekant Kapgate</h2>
 
 ```js
 
