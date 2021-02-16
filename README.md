@@ -1,9 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ekant kapgate" alt="Ekant kapgate" /> </p>
-
-
-<p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
   <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
