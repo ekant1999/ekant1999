@@ -30,7 +30,7 @@ var status =
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Java, Html, Css, Javascript],
+  languages :[C, Cpp, Python, Java, Html, Css, Javascript, C#],
   
   ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Eclipse],
   
