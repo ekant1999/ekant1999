@@ -24,23 +24,23 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [React, P5.js],
+  learning : [React, Next, Nest],
   interests: [Research, Open Source Contribution, Software Devlopment]
 }
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Java, Html, Css, Javascript, C#],
+  languages :[C, Cpp, Python, Java, Html, Css, Javascript, C#, Go, React, Next],
   
   ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Eclipse],
   
   libraries :[Jquery, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   
-  frameworks:[Bootstrap, React, Node, Django, Flask],
+  frameworks:[Bootstrap, React, Node, Django, Flask, .Net],
   
-  databases :[MySql, Firebase],
+  databases :[MySql, Firebase, Postgress],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Github Pages],
+  platforms :[Google Cloud Platform, Amazon Web Services, Github Pages, Azure],
   
   cicd      :[TravisCI, CircleCI, Github Workflows]
 }
@@ -63,36 +63,7 @@ while(dev.isCoding() && dev.isStuck())
 ```
 
  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ekant1999&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/ekant1999"/>
-
-
----
-
-
-<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
-
-
-<center>
-<a href="https://github.com/ekant1999/coding-problem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=coding-problem&theme=ayu-mirage&layout=compact" />
-</a>
-<a href="https://github.com/Ekant kapgate/recommendation_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=recommendation_system&theme=react&layout=compact" />
-</a>
-<a href="https://github.com/ekant1999/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=portfolio&theme=ayu-mirage&layout=compact" />
-</a>
-<a href="https://github.com/ekant1999/Olymic-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Olymic-game&theme=react&layout=compact" />
-</a>
-<a href="https://github.com/ekant1999/Sorting_Visualiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Sorting_Visualiser&theme=ayu-mirage&layout=compact" />
-</a>
-<a href="https://github.com/ekant1999/Tower-of-Hanoi-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekant1999&repo=Tower-of-Hanoi-Visualizer&theme=react&layout=compact" />
-</a>
-</center>
-
----
+ 
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ekant1999&theme=ayu-mirage&layout=compact" alt="saurav-skl" />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/ekant1999/ekant1999/blob/main/marquee.svg" />
