@@ -61,10 +61,5 @@ while(dev.isCoding() && dev.isStuck())
 
 
 ```
-
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=ekant1999&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/ekant1999"/>
- 
-
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ekant1999&theme=ayu-mirage&layout=compact" alt="saurav-skl" />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/ekant1999/ekant1999/blob/main/marquee.svg" />
 
