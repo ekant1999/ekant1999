@@ -20,8 +20,6 @@
 
 ```js
 
-document.write("Hello World");
-
 var status = 
 { 
   learning : [React, Next, Nest],
