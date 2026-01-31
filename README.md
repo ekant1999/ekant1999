@@ -1,63 +1,170 @@
-<a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
-  <img align="right" alt="Ekant kapgate - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-<a href="https://dev.to/">
-  <img align="right"  alt="Ekant kapgate - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
-</a>
-<a href="https://www.codechef.com/users/">
-  <img align="right" alt="Ekant kapgate - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
-</a>
-<a href="https://instagram.com/">
-  <img align="right" alt="Ekant kapgate - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/">
-  <img align="right" alt="Ekant kapgate - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-</a>
-<a href="https://facebook.com/">
-  <img align="right" alt="Ekant kapgate - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
-<h2 align="left">Namaste :pray: I'm Ekant Kapgate</h2>
+<h1 align="center">Ekant Kapgate</h1>
 
-```js
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekant-kapgate-494854167/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ekant1999">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ekant.kapgate@sjsu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-var status = 
-{ 
-  learning : [React, Next, Nest],
-  interests: [Research, Open Source Contribution, Software Devlopment]
+<h3 align="center">Senior Backend Engineer | AI Infrastructure & Agentic Systems</h3>
+
+<p align="center">
+  Building scalable backend systems and AI-powered applications with LLMs, vector search, and production ML infrastructure
+</p>
+
+---
+
+## 🚀 About Me
+
+Senior Backend Engineer with **4+ years** of production experience building high-performance distributed systems and AI infrastructure. Currently pursuing MS in Software Engineering at San Jose State University while working as a Research Assistant, focusing on **agentic AI applications** and **LLM-powered systems**.
+
+**Current Focus:**
+- 🤖 Building production-grade agentic systems with LLMs and RAG architectures
+- 🏗️ Designing scalable AI infrastructure for model deployment and orchestration
+- ⚡ Optimizing vector search and retrieval systems (FAISS, Atlas Vector Search)
+- 🔧 MLOps: CI/CD pipelines, containerization, and model monitoring
+
+**Experience Highlights:**
+- Built an **agentic incident assistant** processing 100K+ production tickets with Azure OpenAI and vector search
+- Designed **RAG systems** over 50K+ documents, improving incident resolution by 20%
+- Reduced LLM infrastructure costs by **97%** through rigorous model validation and optimization
+- Accelerated ML deployment cycles by **40%** with Docker, Kubernetes, and Azure ML pipelines
+
+---
+
+## 💼 Professional Experience
+
+**Research Assistant** @ San Jose State University *(Dec 2025 - Present)*
+- Developing AI-powered instructor assistant using FastAPI, React, and LLMs with RAG over FAISS
+- Applying LoRA fine-tuning and prompt engineering to improve domain accuracy by 18%
+
+**Senior Software Engineer** @ Optym *(Mar 2021 - Aug 2025)*
+- Led development of agentic AI systems for production incident management
+- Built ML-driven optimization services combining Large Neighborhood Search with mixed-integer programming
+- Established MLOps practices: Docker containerization, Azure ML CI/CD, model validation frameworks
+- Architected backend services handling millions of daily requests with Python, FastAPI, and MongoDB
+
+---
+
+## 🛠️ Technical Stack
+
+### Backend & Infrastructure
+```python
+backend = {
+    "languages": ["Python", "Java", "C++", "SQL"],
+    "frameworks": ["FastAPI", "Flask", "Spring Boot"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "messaging": ["Kafka", "RabbitMQ"],
+    "cloud": ["Azure", "AWS", "GCP"],
+    "containers": ["Docker", "Kubernetes"]
 }
-
-const skills = 
-{
-  languages :[C, Cpp, Python, Java, Html, Css, Javascript, C#, Go, React, Next],
-  
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Eclipse],
-  
-  libraries :[Jquery, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
-  
-  frameworks:[Bootstrap, React, Node, Django, Flask, .Net],
-  
-  databases :[MySql, Firebase, Postgress],
-  
-  platforms :[Google Cloud Platform, Amazon Web Services, Github Pages, Azure],
-  
-  cicd      :[CircleCI, Github Workflows]
-}
-
-
-Developer dev = new Developer(Ekant kapgate);
-
-while(dev.isCoding() && dev.isStuck())  
-{
-  dev.openBrowser();
-  dev.openDocumentation();
-  dev.getFrustrated();
-  dev.open100'sOfBlog();
-  dev.openStackOverflow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
-}
-
-
 ```
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/ekant1999/ekant1999/blob/main/marquee.svg" />
 
+### AI/ML & LLM Infrastructure
+```python
+ai_stack = {
+    "llms": ["Azure OpenAI", "OpenAI API", "Hugging Face Transformers"],
+    "frameworks": ["LangChain", "LlamaIndex", "PyTorch", "TensorFlow"],
+    "vector_stores": ["FAISS", "Atlas Vector Search", "Pinecone"],
+    "ml_ops": ["MLflow", "Azure ML", "CI/CD Pipelines"],
+    "libraries": ["scikit-learn", "XGBoost", "NumPy", "pandas", "tsfresh"]
+}
+```
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Agentic Incident Assistant
+**Python • FastAPI • Azure OpenAI • MongoDB • Vector Search**
+- Production system processing 100K+ tickets with LLM-powered troubleshooting
+- Integrated RAG over 50K+ Confluence documents with context management
+- 20% faster incident resolution through intelligent retrieval and response generation
+
+### 🚗 FleetHealth Telemetry Anomaly Detector
+**Python • PyTorch • FastAPI • Docker**
+- Real-time fault detection over vehicle telemetry using autoencoder architecture (0.93 AUROC)
+- Streaming inference processing 5M+ samples/day with p95 latency <120ms
+- Early warning system detecting anomalies 45 minutes before threshold alarms
+
+### 🧠 Diagnostic Knowledge Graph
+**Neo4j • SPARQL • Python • LLMs**
+- Built diagnostic ontology with 320+ components and 1,800+ relationships
+- LLM-assisted rule generation translating service narratives into Cypher queries
+- Sub-200ms cross-trim fault-to-subsystem queries with explainable reasoning
+
+### 🔬 AI Research Assistant
+**Python • FastAPI • React • RAG • LoRA Fine-tuning**
+- Automated research paper management and Canvas question generation
+- Applied prompt engineering reducing hallucinated citations by 30%
+- Domain accuracy improvement of 18% through LoRA fine-tuning
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekant1999&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekant1999&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekant1999&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)
+  
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=ekant1999&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+  
+</div>
+
+---
+
+## 📝 Publications
+
+**[Online Product Recommendation Engine](https://ieeexplore.ieee.org/document/9231069)**  
+IEEE International Conference, Nov 2020  
+*A.V. Harshvardhan, A. Singh, E.K. Kapgate, N. Ahuja*
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔨 Building production-grade agentic workflows with LangGraph and multi-agent orchestration
+- 📚 Exploring advanced RAG architectures: hybrid search, query rewriting, and re-ranking
+- 🚀 Optimizing LLM inference at scale: quantization, caching strategies, and serving infrastructure
+- 🧪 Experimenting with fine-tuning techniques: LoRA, QLoRA, and RLHF for domain adaptation
+
+---
+
+## 💡 Open to Collaborate On
+
+- Agentic AI applications and multi-agent systems
+- LLM infrastructure and MLOps tooling
+- Production RAG systems and vector search optimization
+- High-performance backend services and distributed systems
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ekant1999&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
+
+---
+
+<p align="center">
+  📧 <b>Contact:</b> ekant.kapgate@sjsu.edu | 📱 <b>Phone:</b> +1 (408) 591-0808
+</p>
