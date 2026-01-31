@@ -52,33 +52,6 @@ Senior Backend Engineer with **4+ years** of production experience building high
 
 ---
 
-## 🛠️ Technical Stack
-
-### Backend & Infrastructure
-```python
-backend = {
-    "languages": ["Python", "Java", "C++", "SQL"],
-    "frameworks": ["FastAPI", "Flask", "Spring Boot"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis"],
-    "messaging": ["Kafka", "RabbitMQ"],
-    "cloud": ["Azure", "AWS", "GCP"],
-    "containers": ["Docker", "Kubernetes"]
-}
-```
-
-### AI/ML & LLM Infrastructure
-```python
-ai_stack = {
-    "llms": ["Azure OpenAI", "OpenAI API", "Hugging Face Transformers"],
-    "frameworks": ["LangChain", "LlamaIndex", "PyTorch", "TensorFlow"],
-    "vector_stores": ["FAISS", "Atlas Vector Search", "Pinecone"],
-    "ml_ops": ["MLflow", "Azure ML", "CI/CD Pipelines"],
-    "libraries": ["scikit-learn", "XGBoost", "NumPy", "pandas", "tsfresh"]
-}
-```
-
----
-
 ## 🔥 Featured Projects
 
 ### 🤖 Agentic Incident Assistant
