@@ -111,20 +111,29 @@ ai_stack = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekant1999&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekant1999&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekant1999&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)
-  
+<a href="https://github.com/ekant1999">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ekant1999&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ekant1999&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</a>
+
 </div>
 
-### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ekant1999&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🏆 GitHub Profile
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekant1999&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ekant1999)
+
+</div>
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ekant1999&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
-  
+![](https://github-readme-activity-graph.vercel.app/graph?username=ekant1999&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 ---
