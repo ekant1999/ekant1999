@@ -80,21 +80,13 @@ Senior Backend Engineer with **4+ years** of production experience building high
 
 ---
 
-## 📊 GitHub Contributions
+## 💻 Coding Stats
 
 <div align="center">
 
-### 💻 Coding Stats
-
-| 📈 Contributions | 🔥 Streak | ⭐ Stars | 🍴 Forks |
-|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Total&query=$.contributions&url=https://github-contributions-api.jogruber.de/v4/ekant1999?y=last&style=for-the-badge) | ![](https://img.shields.io/badge/Current-Check_Profile-orange?style=for-the-badge) | ![GitHub Stars](https://img.shields.io/github/stars/ekant1999?style=for-the-badge&color=yellow) | ![](https://img.shields.io/badge/Total-Check_Profile-green?style=for-the-badge) |
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekant1999&custom_title=Ekant's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 </div>
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekant1999&custom_title=Ekant's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ### 🔝 Most Used Languages
 
