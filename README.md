@@ -80,32 +80,48 @@ Senior Backend Engineer with **4+ years** of production experience building high
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
+
+<div align="center">
+
+### 💻 Coding Stats
+
+| 📈 Contributions | 🔥 Streak | ⭐ Stars | 🍴 Forks |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Total&query=$.contributions&url=https://github-contributions-api.jogruber.de/v4/ekant1999?y=last&style=for-the-badge) | ![](https://img.shields.io/badge/Current-Check_Profile-orange?style=for-the-badge) | ![GitHub Stars](https://img.shields.io/github/stars/ekant1999?style=for-the-badge&color=yellow) | ![](https://img.shields.io/badge/Total-Check_Profile-green?style=for-the-badge) |
+
+</div>
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekant1999&custom_title=Ekant's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+### 🔝 Most Used Languages
 
 <div align="center">
   
-<a href="https://github.com/ekant1999">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ekant1999&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ekant1999&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+**Backend & Infrastructure**
+- Python (FastAPI, Flask)
+- Java (Spring Boot)
+- C++ (System Programming)
+- SQL (PostgreSQL, MongoDB)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ekant1999&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+</td>
+<td width="50%">
 
-### 🏆 GitHub Profile
+**AI/ML & Data**
+- PyTorch, TensorFlow
+- NumPy, pandas, scikit-learn
+- LangChain, LlamaIndex
+- Vector DBs (FAISS, Pinecone)
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekant1999&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ekant1999)
-
-</div>
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=ekant1999&theme=react-dark&hide_border=true&area=true)
+</td>
+</tr>
+</table>
 
 </div>
 
