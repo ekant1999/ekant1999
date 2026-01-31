@@ -144,17 +144,3 @@ IEEE International Conference, Nov 2020
 - High-performance backend services and distributed systems
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekant1999&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
-
----
-
-<p align="center">
-  📧 <b>Contact:</b> ekant.kapgate@sjsu.edu | 📱 <b>Phone:</b> +1 (408) 591-0808
-</p>
